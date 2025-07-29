@@ -1,0 +1,2 @@
+# ClassComputeShutdown
+一个用于给教室电脑设置自动关机的程序，需配合计划任务使用
